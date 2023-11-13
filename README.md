@@ -5,5 +5,3 @@
 - 📫 Reach me by email @ familydezigns@gmail.com
 - ✨ Fun Fact: A baby Unicorn is called a sparkle!
 
-**MythicalMaddness/MythicalMaddness** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
